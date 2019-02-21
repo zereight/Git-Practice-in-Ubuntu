@@ -1,0 +1,13 @@
+https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd
+https://rogerdudler.github.io/git-guide/index.ko.html
+
+git init
+
+git remote add origin <url>
+or 
+git clone <url>
+
+git add *
+git commit -m "message"
+
+git push -u origin master
